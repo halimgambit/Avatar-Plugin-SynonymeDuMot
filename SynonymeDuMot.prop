@@ -1,0 +1,10 @@
+{
+	"modules": { 
+		"SynonymeDuMot": {
+			"version": "1.0",
+			"name": "synonyme",
+			"rules": ["synonymous","synonym","synonym * word"]
+		}
+	}
+}
+			
